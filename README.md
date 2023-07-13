@@ -4,7 +4,6 @@
 Clone the Repository to your workspace , Ros2foxy and Navigation2 stack must be installed 
 
 ### 1. The robot can be Launched in the Gazebo via the following commands
-
    
   To Launch the robot in the empty Gazebo world
   ```
