@@ -56,6 +56,10 @@ To autonomously Navigating using saved map
 ros2 launch nav2_bringup bringup_launch.py use_sim_time:=True map:=/home/sampath/sam_ws/src/sam_bot/maps/my_map.yaml
 ```
 The map has been cleaned using GIMP and saved in the Maps folder 
+
+
 To do : 
+
 Well while creation of map , The robot doesnot have stable motion may be due to inadequate stablity the tfs are not stable 
+
 Need to develop script for waypoint follower 
