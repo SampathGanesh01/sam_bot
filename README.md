@@ -39,3 +39,4 @@ To run the filter node
 ```
 python3 laser_filter.py
 ```
+![image](https://github.com/SampathGanesh01/sam_bot/assets/84275114/8b3f1f55-f4d1-4157-8c36-a0eedfa05e69)
