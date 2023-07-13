@@ -40,7 +40,7 @@ python3 laser_filter.py
 ```
 ![image](https://github.com/SampathGanesh01/sam_bot/assets/84275114/8b3f1f55-f4d1-4157-8c36-a0eedfa05e69)
 
-### 4.Wypoint Follower 
+### 4.Waypoint Follower 
 
 Before Going to follow waypoints we need to create a map 
 we can create a map using SLAMTOOLBOX and can even able to do autonomous Navigation using nav2 
