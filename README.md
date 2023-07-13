@@ -39,3 +39,8 @@ To run the filter node
 ```
 python3 laser_filter.py
 ```
+or 
+
+```
+rosrun sam_bot laser_filter.py
+```
