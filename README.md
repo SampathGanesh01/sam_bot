@@ -10,7 +10,10 @@ Clone the Repository to your workspace , Ros2foxy and Navigation2 stack must be 
   ```
    ros2 launch sam_bot launch_sim.launch.py
 ```
-
+ You can control the robot using 
+ ```
+rqt_robot_steering
+```
 
 
 ### 2. BOT WORLD 
