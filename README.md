@@ -1,4 +1,3 @@
-![image](https://github.com/SampathGanesh01/sam_bot/assets/84275114/533bd083-1c84-4f9c-a38c-f1afc826d7d5)
 # SAM_BOT
 ## Autonomous Mobile Robot in ROS2 Foxy 
 
@@ -27,8 +26,7 @@ rqt_robot_steering
    ```
    ros2 launch sam_bot launch_sim.launch.py world:=/home/sampath/sam_ws/src/sam_bot/worlds/bot_world.world use_gazebo_control:=true
 ```
-
-file:///home/sampath/Pictures/Screenshot%20from%202023-07-14%2004-16-41.png
+![image](https://github.com/SampathGanesh01/sam_bot/assets/84275114/533bd083-1c84-4f9c-a38c-f1afc826d7d5)
 ### 3.Laser filter 
 
 To see the Laser data which is filtered you need to on the General robot and then also need to run filter node which will give us filtered odometry data 
