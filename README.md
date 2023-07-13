@@ -26,3 +26,16 @@ rqt_robot_steering
    ```
    ros2 launch sam_bot launch_sim.launch.py world:=/home/sampath/sam_ws/src/sam_bot/worlds/bot_world.world use_gazebo_control:=true
 ```
+
+### 3.Laser filter 
+
+To see the Laser data which is filtered you need to on the General robot and then also need to run filter node which will give us filtered odometry data 
+
+   To spawn  the Robot  in the SImulated World
+```
+   ros2 launch sam_bot launch_sim.launch.py world:=/home/sampath/sam_ws/src/sam_bot/worlds/bot_world.world use_gazebo_control:=true
+```
+To run the filter node 
+```
+python3 laser_filter.py
+```
